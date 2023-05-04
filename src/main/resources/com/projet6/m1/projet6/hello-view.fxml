@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<AnchorPane fx:id="ap_main" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.projet6.m1.projet6.HelloController">
+<AnchorPane fx:id="ap_main" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.projet6.m1.projet6.HelloController">
    <children>
       <Label alignment="CENTER" contentDisplay="RIGHT" layoutX="161.0" layoutY="50.0" prefHeight="17.0" prefWidth="278.0" text="ProjetNine Messenger" textAlignment="CENTER" />
       <ScrollPane fx:id="sp_main" layoutX="114.0" layoutY="67.0" prefHeight="251.0" prefWidth="372.0">
